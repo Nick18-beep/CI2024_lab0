@@ -1,0 +1,2 @@
+Tre di Ingegneria Informatica e tre di Data Science entrano in un bar.
+Quelli di Data Science iniziano subito a fare analisi sui dati del menù, mentre quelli di Ingegneria Informatica cercano di ordinare, ma il sistema va in crash... perché nessuno aveva previsto una divisione per zero al momento del conto
